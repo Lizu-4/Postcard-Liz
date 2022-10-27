@@ -1,13 +1,19 @@
 body {
 	background: black;
 	font-family: "Roboto Condensed", sans-serif;
+	display: flex;
+	min-height: 100vh;
+	margin: 0;
+}
+
+.container {
+	margin: auto;
 }
 
 .postcard {
 	background: white;
 	width: 400px;
 	height: 300px;
-	margin: auto;
 }
 
 .postcard-header {
