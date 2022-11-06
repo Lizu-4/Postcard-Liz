@@ -47,7 +47,10 @@ body {
 }
 
 input {
-	padding: 4px;
+	padding: 5px;
+	margin: 2px;
+	margin-left: 10px;
+	border: 0px;
 }
 
 .postcard-footer {
